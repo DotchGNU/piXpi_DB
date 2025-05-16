@@ -59,7 +59,7 @@ jupyter notebook notebooks/predict_substrate_abundance_using_MLP.ipynb
 ### Genome-scale Prediction 
 
 Apply the trained model to potential gRNAs of human genome
-( link to access entire off-target datasets of human genome : [clip.korea.ac.kr/abasic_crRNA/](http://clip.korea.ac.kr/piXpi_DB/source_data/crispr.parsed.TrackGreen.details.NGG.MmCode.txt) )
+( link to access entire off-target datasets of human genome : [clip.korea.ac.kr/abasic_crRNA/ ( n= 747,063,488 ) ](http://clip.korea.ac.kr/piXpi_DB/source_data/crispr.parsed.TrackGreen.details.NGG.MmCode.txt) )
 :
 
 ```bash
